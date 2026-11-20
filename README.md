@@ -1,4 +1,22 @@
-# 🛡️ Kavach-UPI: Active On-Device Threat Interception & Fraud Prevention Shield
+<div align="center">
+
+<img src="assets/logo.svg" alt="Kavach-UPI Logo" width="160" />
+
+# Kavach-UPI
+### Autonomous Android Threat Shield Against Screen-Share & Overlay Fraud in UPI Transactions
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Platform: Android](https://img.shields.io/badge/Platform-Android%20API%2026+-3DDC84.svg?logo=android&logoColor=white)](app/)
+[![Language: Kotlin](https://img.shields.io/badge/Language-Kotlin%20%7C%20Coroutines-7F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![Security: Zero--Cloud](https://img.shields.io/badge/Privacy-100%25%20On--Device-success.svg)](#)
+
+<p align="center">
+  <b>A real-time, zero-cloud Android accessibility defense framework that detects active UPI payment flows, intercepts unauthorized remote screen-casts, and injects protective hardware-level touch-blocking overlays.</b>
+</p>
+
+</div>
+
+---
 
 An edge-computed, zero-cloud-dependency security service engineered for native Android platforms to defend users against social engineering scams, remote-access exploits, and screen-sharing fraud during financial operations.
 
